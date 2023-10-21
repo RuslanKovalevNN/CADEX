@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\black\Desktop\Новая папка (4)\CADEX\cadex_project\cadex_project\Main.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\black\Desktop\Новая папка (4)\CADEX\cadex_project\cadex_project\Task_2-7.h(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\black\Desktop\Новая папка (4)\CADEX\cadex_project\cadex_project\Main.cpp(42): message : выполняется компиляция ссылки на экземпляр шаблон функции "T sum_of_radius_par<double>(std::vector<std::shared_ptr<Shape<T>>,std::allocator<std::shared_ptr<Shape<T>>>> &)"
+          with
+          [
+              T=double
+          ]
+  cadex_project.vcxproj -> C:\Users\black\Desktop\Новая папка (4)\CADEX\cadex_project\Debug\cadex_project.exe
